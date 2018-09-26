@@ -7,7 +7,7 @@ autocmd BufNew,BufRead,BufNewFile *.h set syntax=cpp
 autocmd BufNew,BufRead,BufNewFile *.md set filetype=markdown
 
 " Set nocompatible to ward off unexpected things
-set nocompatible
+set nocompatible .....
 
 " Attempts to determine the type of a file based on its name and possibly its
 " contents.  Use this to allow intelligent auto-indenting for each filetype,

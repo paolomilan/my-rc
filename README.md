@@ -1,2 +1,2 @@
 # my-rc
-my .rc files
+my .bashrc, .vimrc files, and more.

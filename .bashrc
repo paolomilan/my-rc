@@ -3,7 +3,7 @@
 #######################################
 
 # Allows script.sh instead of ./script.sh
-export PATH=.:$PATH.
+export PATH=.:$PATH
 
 # Aliases
 alias view='vim -R'
